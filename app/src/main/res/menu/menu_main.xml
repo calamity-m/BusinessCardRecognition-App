@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.canberra.businesscardsaver.MainActivity">
+    <item
+        android:id="@+id/action_main"
+        android:orderInCategory="100"
+        android:title="Main Menu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_list"
+        android:orderInCategory="101"
+        android:title="Stored Business Cards"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add"
+        android:orderInCategory="102"
+        android:title="Add Business Card"
+        app:showAsAction="never" />
+</menu>
