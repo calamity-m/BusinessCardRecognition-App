@@ -10,6 +10,4 @@ Created an Android Application in Android Studio. The Application primarily uses
 
 ## Screenshots
 
-Screenshot of the add and edit card activities:
-
-![appss1](https://user-images.githubusercontent.com/11038569/33598876-71afa758-d9f8-11e7-953f-7878dda122f3.png)
+TODO: Need to add Screenshots
